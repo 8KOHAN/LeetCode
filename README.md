@@ -21,7 +21,7 @@ It is intended to improve algorithmic thinking, prepare for technical interviews
 
 Each problem is stored in a separate folder, following this format:
 
-<Category>/<Difficulty>/<Problem Number. Title>/<decision>
+- <Category>/<Difficulty>/<Problem Number. Title>/<decision>
 
 ---
 
