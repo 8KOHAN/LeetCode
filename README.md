@@ -1,42 +1,32 @@
-📘 LeetCode
-This repository contains my solutions to problems from LeetCode. It is intended to improve algorithmic thinking, prepare for technical interviews, and organize knowledge of various programming topics.
+# 📘 LeetCode
 
-🧠 Covered Topics:
-Arrays and Strings
+This repository contains my solutions to problems from **[LeetCode](https://leetcode.com/)**.  
+It is intended to improve algorithmic thinking, prepare for technical interviews, and organize knowledge of various programming topics.
 
-Hash Tables
+---
 
-Binary Trees and Graphs
+### 🧠 Covered Topics
 
-Dynamic Programming
+- Arrays and Strings  
+- Hash Tables  
+- Binary Trees and Graphs  
+- Dynamic Programming  
+- Searching and Sorting  
+- Stack, Queue, Linked Lists  
+- And more...
 
-Searching and Sorting
+---
 
-Stack, Queue, Linked Lists
+### 📁 Structure
 
-And more...
-
-📁 Structure
 Each problem is stored in a separate folder, following this format:
 
-php-template
-Copy
-Edit
-<Category>/<Difficulty>/<Problem Number. Title>/<Problem Number. Title>.cpp
-Example:
-Array/Easy/1. Two Sum/1. Two Sum.cpp
+<Category>/<Difficulty>/<Problem Number. Title>/<decision>
 
-Each file includes:
+---
 
-The problem title with its number
+### 🎯 Goals
 
-A link to the original problem on LeetCode
-
-An explanation in comments (when available)
-
-🎯 Goals
-Prepare effectively for coding interviews
-
-Sharpen problem-solving skills
-
-Study algorithms and data structures in a structured way
+- 📌 Prepare effectively for coding interviews  
+- 🧩 Sharpen problem-solving skills  
+- 🗂️ Study algorithms and data structures in a structured way  
