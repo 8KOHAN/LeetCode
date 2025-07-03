@@ -27,6 +27,6 @@ Each problem is stored in a separate folder, following this format:
 
 ### 🎯 Goals
 
-- 📌 Prepare effectively for coding interviews  
-- 🧩 Sharpen problem-solving skills  
-- 🗂️ Study algorithms and data structures in a structured way  
+- Prepare effectively for coding interviews  
+- Sharpen problem-solving skills  
+- Study algorithms and data structures in a structured way  
