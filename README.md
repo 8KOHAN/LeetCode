@@ -1,11 +1,11 @@
-# 📘 LeetCode
+# LeetCode
 
 This repository contains my solutions to problems from **[LeetCode](https://leetcode.com/)**.  
 It is intended to improve algorithmic thinking, prepare for technical interviews, and organize knowledge of various programming topics.
 
 ---
 
-### 🧠 Covered Topics
+### Covered Topics
 
 - Arrays and Strings  
 - Hash Tables  
@@ -17,7 +17,7 @@ It is intended to improve algorithmic thinking, prepare for technical interviews
 
 ---
 
-### 📁 Structure
+### Structure
 
 Each problem is stored in a separate folder, following this format: 
 
@@ -25,7 +25,7 @@ Each problem is stored in a separate folder, following this format:
 
 ---
 
-### 🎯 Goals
+### Goals
 
 - Prepare effectively for coding interviews  
 - Sharpen problem-solving skills  
