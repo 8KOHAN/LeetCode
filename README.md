@@ -17,16 +17,16 @@ It is intended to improve algorithmic thinking, prepare for technical interviews
 
 ---
 
-### Structure
-
-Each problem is stored in a separate folder, following this format: 
-
-- Category/Difficulty/Problem Number. Title/decision
-
----
-
 ### Goals
 
 - Prepare effectively for coding interviews  
 - Sharpen problem-solving skills  
 - Study algorithms and data structures in a structured way  
+ 
+ ---
+ 
+### Structure
+
+Each problem is stored in a separate folder, following this format: 
+
+- Category/Difficulty/Problem Number. Title/decision
